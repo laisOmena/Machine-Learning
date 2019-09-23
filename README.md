@@ -1,2 +1,2 @@
 # Machine-Learning
-Alura curso
+Curso
